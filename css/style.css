@@ -1,0 +1,14 @@
+div{
+outline: 1px solid orange;	
+	
+}
+.main-nav{
+	display: flex;
+	margin-bottom: 110px;
+}
+.site-menu{
+	display: flex;
+	width: 660px
+		flex-wrap:wrap;
+	list-style: none;
+}
